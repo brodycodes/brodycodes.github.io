@@ -13,6 +13,10 @@
 	font-family: "Sailec-Light"; src: url("../fonts/30142E_6_0.eot?#iefix") format("embedded-opentype"), url("../fonts/30142E_6_0.woff2") format("woff2"), url("../fonts/30142E_6_0.woff") format("woff"), url("../fonts/30142E_6_0.ttf") format("truetype");
 }
 
+body, html {
+	overflow-x: hidden;
+}
+
 body {
 	font-family: 'Sailec-Light', sans-serif;
 	background: #f6f6f6 none repeat scroll 0% 0%
